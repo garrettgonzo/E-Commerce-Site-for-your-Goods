@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-Commerce-Site-for-your-Goods
 
 ## User Story
 
